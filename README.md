@@ -37,6 +37,7 @@ A hands-on practice for Git course students.
 ## Authors
 
 - Thomas Mak (@makzan)
+- Seng Hin Mak (@makzan-demo)
 
 -----
 
