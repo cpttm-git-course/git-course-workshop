@@ -1,1 +1,1 @@
-git commit -m "add repository file"
+¾ú¥v³Æ¥÷
