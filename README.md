@@ -8,14 +8,14 @@ A hands-on practice for Git course students.
 
 ## Working directory and Staging
 
-- [Working directory](Working directory.txt)
-- [Staging area](staging area.txt)
-- [Commited snapshot](Repository.txt)
+- [Working directory](Working directory.md)
+- [Staging area](staging area.md)
+- [Commited snapshot](Repository.md)
 
 ## Basic commands
 
-- [Adding changes to staging area](adding_changes_to_staging_area.txt)
-- [Commiting changes](commiting_changes.txt)
+- [Adding changes to staging area](adding_changes_to_staging_area.md)
+- [Commiting changes](commiting_changes.md)
 - [Writing commit message](commit-comment.md)
 
 ## More commands
@@ -29,7 +29,7 @@ A hands-on practice for Git course students.
 
 ## Alias commands
 
-- [Log](DanielLog.txt)
+- [Log](DanielLog.md)
 - Status
 
 ------
