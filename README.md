@@ -15,7 +15,7 @@ A hands-on practice for Git course students.
 ## Basic commands
 
 - [Adding changes to staging area](adding_changes_to_staging_area.txt)
-- Commiting changes
+- [Commiting changes](commiting_changes.txt)
 - [Writing commit message](commit-comment.md)
 
 ## More commands
