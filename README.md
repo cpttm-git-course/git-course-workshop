@@ -8,9 +8,9 @@ A hands-on practice for Git course students.
 
 ## Working directory and Staging
 
-- Working directory
-- Staging area
-- Commited snapshot
+- [Working directory](Working directory.txt)
+- [Staging area](staging area.txt)
+- [Commited snapshot](#)
 
 ## Basic commands
 
@@ -29,7 +29,7 @@ A hands-on practice for Git course students.
 
 ## Alias commands
 
-- Log
+- [Log](DanielLog.txt)
 - Status
 
 ------
