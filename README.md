@@ -44,8 +44,8 @@ A hands-on practice for Git course students.
 - Chan Ka Chun (@chankachun)
 - Ray ,KOU HONG WAI
 - Daniel Mak
-
--Matthew Song (@matthewsong121macau@gmail.com)
+- Matthew Song (@matthewsong121macau@gmail.com)
+- Felix Loi
 
 -----
 
