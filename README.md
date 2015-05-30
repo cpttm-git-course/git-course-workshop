@@ -21,7 +21,7 @@ A hands-on practice for Git course students.
 ## More commands
 
 - Creating branch
-- Jump to different branch
+- [Jump to different branch](more_commands/Jump_to_different_branch.md)
 
 ## Managing branches
 
