@@ -42,6 +42,7 @@ A hands-on practice for Git course students.
 - Harold Yung Weng Hong (@haroldyung)
 - Jacob (jacoblio@hotmail.com)
 - Chan Ka Chun (@chankachun)
+- Ray ,KOU HONG WAI
 
 -----
 
