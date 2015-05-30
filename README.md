@@ -39,6 +39,7 @@ A hands-on practice for Git course students.
 - Thomas Mak (@makzan)
 - Seng Hin Mak (@makzan-demo)
 - Shao Wenjin (@John-Shao)
+- Harold Yung Weng Hong (@haroldyung)
 
 -----
 
