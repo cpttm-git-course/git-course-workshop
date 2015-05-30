@@ -10,7 +10,7 @@ A hands-on practice for Git course students.
 
 - [Working directory](Working directory.txt)
 - [Staging area](staging area.txt)
-- [Commited snapshot](#)
+- [Commited snapshot](Repository.txt)
 
 ## Basic commands
 
