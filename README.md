@@ -16,7 +16,7 @@ A hands-on practice for Git course students.
 
 - [Adding changes to staging area](adding_changes_to_staging_area.txt)
 - Commiting changes
-- Writing commit message
+- [Writing commit message](commit-comment.md)
 
 ## More commands
 
